@@ -8,4 +8,4 @@ brew cask install alfred skype kindle sizeup google-drive google-japanese-ime go
 brew install vim gmp nodebrew scala sbt mongodb mysql56 stoken git git-flow maven wget redis28 protobuf docker docker-compose svn
 
 # install manually gvm secureid displaymenu canary redis-desktop
-# install via appstore xcode numbers pages keynote omnigraph patterns
+# install via appstore xcode numbers pages keynote omnigraph patterns bitcoin-monitor
